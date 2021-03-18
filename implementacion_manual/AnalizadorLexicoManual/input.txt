@@ -1,0 +1,31 @@
+0
++0
+int
+real
+bool
+and
+or
+not
+true
+false
+hola
+InT
+hola9_98
+0.1234
+123
++127.87
+-14670000
+13e56
+12e+56
+45/5
+real peso;
+bool pesado
+&&
+peso = (45.0 * 12e-56) / -2.05;
+pesado = (peso > 10.0) or (peso / 2 <= +0.0)
+
+int edad;
+int anioAct;
+int anioNac;
+&&
+anioNac = (anioAct - edad);
